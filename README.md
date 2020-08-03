@@ -10,9 +10,14 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[Linkedin](https://www.linkedin.com/in/jlaguilargomez/)
 
-[Twitter](https://twitter.com/jlaguilargomez)
+<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn"
+	width="35" height="35" /> [Linkedin](https://www.linkedin.com/in/jlaguilargomez/)
+
+<img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="Twitter"
+	width="35" height="35" /> [Twitter](https://twitter.com/jlaguilargomez)
+
+
 
 ## Languages and Tools:
 
