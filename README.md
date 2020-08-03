@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 ## Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/jlaguilargomez/)
+
 [Twitter](https://twitter.com/jlaguilargomez)
 
 ## Languages and Tools:
