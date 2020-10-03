@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jose Luis
 
-I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Polytechnic University of Madrid" and later, I was working as a construction manager in some projects.
+I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Universidad Politécnica de Madrid" and later, I was working as a construction manager in some projects for about 3 years.
 
 #### 💪🏻 Why I made the decision to change my career?
 Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love tech. 
