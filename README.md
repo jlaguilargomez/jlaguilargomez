@@ -110,3 +110,6 @@ Angular 9
 I love sports: bike, running and strength workout.
 
 If I have the opportunity, I love go hiking at mountain with friends. ¿Weather go wrong?, is a good moment to stay home playing some board games.
+</br><img src="https://i.ibb.co/RSCKDWj/Screenshot-8.png" alt="me-at-mountain"
+	width="1000" height="auto" /></br>
+
