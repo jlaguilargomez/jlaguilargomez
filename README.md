@@ -56,7 +56,7 @@ You could check some projects from my portfolio:
 
 #### Quote generator
 <img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator"
-	width="300 height="auto" />
+	width="300" height="auto" />
 	
 <img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="Firebase"
 	width="35" height="35" />
