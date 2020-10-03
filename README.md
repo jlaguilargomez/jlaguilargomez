@@ -3,19 +3,19 @@
 I became **Front End developer** after some years of **Building Engineer** career: I took the degree and a master in "Heritage Conservation" at "Polytechnic University of Madrid" and later, I was working as a construction manager in some projects.
 
 #### Why I made the decision to change my career?
-Because I am that kind of strange person who enjoys studying and learning something new day by day. And I love tech. 
+Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love tech. 
 So, thanks to my friends mainly, I discovered the world of code. 
 Suddenly, an infinite world of new knowledge appeared in front of me.
 
 #### How I became Junior Front end?
-First of all, I started learning some basics at "FreecodeCamp" and  "Codecademy". Luckily, I had the opportunity to take part in a course of "Front end development" made by "Telefonica Foundation", so that I could reinforce the base knowledge that I had and add some new skills to my "bag".
+First of all, I started learning some basics at **"FreecodeCamp"** and  **"Codecademy"**. Luckily, I had the opportunity to take part in a course of "Front end development" made by "Telefonica Foundation", so that I could reinforce the base knowledge that I had and add some new skills to my "bag".
 
 #### What I'm looking for now?
 Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learn new skills, and improving my knowledge as a developer...
 
 
 ### Nowadays...
-- 🌱 I'm currently learning some advance concepts of web development  such as "Performance",  "Secirity", "React+Redux", "AWS" ...   with the course **"The Complete Junior to Senior Web Developer Roadmap (2020)" by  [Andrei Neagoie (Udemy)](https://www.udemy.com/user/andrei-neagoie/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_437497337004_._kw__._de_c_._dm__._pl__._ti_dsa-841699838623_._li_1005489_._pd__._&matchtype=b&gclid=Cj0KCQjw6575BRCQARIsAMp-ksN6ehi0pJzjHVX03U_kxNlzHIJ8keS0s5A0tZbkWYwmmAO7kXMh_g8aAtljEALw_wcB).
+- 🌱 I'm currently learning some advance concepts of web development  such as "Performance",  "Secirity", "React+Redux", "AWS" ...   with the course **"The Complete Junior to Senior Web Developer Roadmap (2020)"** by  [Andrei Neagoie (Udemy)](https://www.udemy.com/user/andrei-neagoie/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_437497337004_._kw__._de_c_._dm__._pl__._ti_dsa-841699838623_._li_1005489_._pd__._&matchtype=b&gclid=Cj0KCQjw6575BRCQARIsAMp-ksN6ehi0pJzjHVX03U_kxNlzHIJ8keS0s5A0tZbkWYwmmAO7kXMh_g8aAtljEALw_wcB).
 - ✏️ Sometimes, I writte on: [Medium](https://medium.com/@jlaguilargomez)
 
 ## Connect with me:
@@ -51,9 +51,17 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" alt="Firebase"
 	width="35" height="35" />
 	
+## Portfolio:
+You could check some projects from my portfolio:
+
+<img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="Firebase"
+	width="35" height="35" />
+	
+<img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="Firebase"
+	width="35" height="35" />
 
 # Hobbies:
 
 I love sports: bike, running and strength workout.
 
-If I have the opportunity, I love go hiking at mountain with friends, ¿weather go wrong?, is a good moment to stay home playing some board games.
+If I have the opportunity, I love go hiking at mountain with friends. ¿Weather go wrong?, is a good moment to stay home playing some board games.
