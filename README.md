@@ -57,10 +57,12 @@ You could check some projects from my portfolio:
 #### Quote generator
 <img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator"
 	width="300" height="auto" /></br>
-[GitHubPages](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
-
-[Repo](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
+[GitHubPages](https://github.com/jlaguilargomez/vanilla_js20_quote-generator) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
 	
+### Infinite scroll
+<img src="https://i.ibb.co/ssLpg1N/Screenshot-3.png" alt="quote-generator"
+	width="auto" height="300" /></br>
+[GitHubPages](http://jlaguilardev.me/vanilla_js20_infinity-scroll/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_infinity-scroll)
 
 
 # Hobbies:
