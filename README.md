@@ -54,8 +54,9 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 ## Portfolio:
 You could check some projects from my portfolio:
 
-<img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="Firebase"
-	width="35" height="35" />
+#### Quote generator
+<img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator
+	width="100 height="auto" />
 	
 <img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="Firebase"
 	width="35" height="35" />
