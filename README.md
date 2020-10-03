@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jose Luis
 
-I became **Front End developer** after some years of **Building Engineer** career: I took the degree and a master in "Heritage Conservation" at "Polytechnic University of Madrid" and later, I was working as a construction manager in some projects.
+I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Polytechnic University of Madrid" and later, I was working as a construction manager in some projects.
 
 #### Why I made the decision to change my career?
 Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love tech. 
@@ -55,14 +55,14 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 You could check some projects from my portfolio:
 
 
-#### Free to vibe Web
+#### 🛺 Free to vibe Web
 Angular 9 + RxJS + Firebase
 </br><img src="https://i.ibb.co/3SCTQff/Screenshot-4.png" alt="freetovibe-web"
 	width="300" height="auto" /></br>
 [Deploy](https://freetovibe.com/principal)
 
 
-#### Color game project
+#### 🎨 Color game project
 Project from "The Web Developer Bootcamp"
 Vanilla JS
 </br><img src="https://i.ibb.co/gSmrJyG/Screenshot-5.png" alt="color-game"
@@ -70,7 +70,7 @@ Vanilla JS
 [GitHubPages](http://jlaguilardev.me/twdbc_color-game-project/) --- [Repo](https://github.com/jlaguilargomez/twdbc_color-game-project)
 
 
-#### Natours project
+#### ☘️ Natours project
 Project from "Advance CSS and Sass Course"
 Vanilla JS
 </br><img src="https://i.ibb.co/wLGDsVk/Screenshot-6.png" alt="natours-project"
@@ -78,21 +78,21 @@ Vanilla JS
 [GitHubPages](http://jlaguilardev.me/CSS-course_natours-project/) --- [Repo](https://github.com/jlaguilargomez/CSS-course_natours-project)
 
 
-#### Quote generator
+#### 📜 Quote generator
 Vanilla JS
 </br><img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator"
 	width="300" height="auto" /></br>
 [GitHubPages](http://jlaguilardev.me/vanilla_js20_quote-generator/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
 
 
-### Infinite scroll
+### 🖇 Infinite scroll
 Vanilla JS
 </br><img src="https://i.ibb.co/ssLpg1N/Screenshot-3.png" alt="infinite-scroll"
 	width="auto" height="300" /></br>
 [GitHubPages](http://jlaguilardev.me/vanilla_js20_infinity-scroll/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_infinity-scroll)
 
 
-#### Personal portfolio webpage (freecodecamp)
+#### 🖼 Personal portfolio webpage (freecodecamp)
 Project from "Responsive Web Design Certification (300 hours)" - FreeCodeCamp
 Vanilla JS
 </br><img src="https://i.ibb.co/fQxRNMd/Screenshot-7.png" alt="color-game"
@@ -100,7 +100,7 @@ Vanilla JS
 [GitHubPages](http://jlaguilardev.me/freeCodeCamp_personal-portfolio-webpage/) --- [Repo](https://github.com/jlaguilargomez/freeCodeCamp_personal-portfolio-webpage)
 
 
-#### Poke Angular (with my workteam)
+#### 🧸 Poke Angular (with my workteam)
 Angular 9
 [Repo](https://github.com/jlaguilargomez/poke-angular-deploy)
 
@@ -108,6 +108,7 @@ Angular 9
 # Hobbies:
 
 I love sports: bike, running and strength workout.
+🏕🚵‍♂️🎭🏋️‍♂️👫🏻
 
 If I have the opportunity, I love go hiking at mountain with friends. ¿Weather go wrong?, is a good moment to stay home playing some board games.
 </br><img src="https://i.ibb.co/RSCKDWj/Screenshot-8.png" alt="me-at-mountain"
