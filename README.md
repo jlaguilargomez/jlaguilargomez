@@ -58,6 +58,7 @@ You could check some projects from my portfolio:
 <img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator"
 	width="300" height="auto" /></br>
 [GitHubPages](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
+
 [Repo](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
 	
 
