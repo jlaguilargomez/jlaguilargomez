@@ -1,7 +1,20 @@
-### Hi there 👋 I'm Jose Luis
+## Hi there 👋 I'm Jose Luis
 
-Here are some ideas to get you started:
+I became **Front End developer** after some years of **Building Engineer** career: I took the degree and a master in "Heritage Conservation" at "Polytechnic University of Madrid" and later, I was working as a construction manager in some projects.
 
+#### Why I made the decision to change my career?
+Because I am that kind of strange person who enjoys studying and learning something new day by day. And I love tech. 
+So, thanks to my friends mainly, I discovered the world of code. 
+Suddenly, an infinite world of new knowledge appeared in front of me.
+
+#### How I became Junior Front end?
+First of all, I started learning some basics at "FreecodeCamp" and  "Codecademy". Luckily, I had the opportunity to take part in a course of "Front end development" made by "Telefonica Foundation", so that I could reinforce the base knowledge that I had and add some new skills to my "bag".
+
+#### What I'm looking for now?
+Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learn new skills, and improving my knowledge as a developer...
+
+
+### Nowadays...
 - 🔭 I’m currently working on ...
 - 🌱 I'm currently learning some advance concepts of web development  such as "Performance",  "Secirity", "React+Redux", "AWS" ...   with the course "The Complete Junior to Senior Web Developer Roadmap (2020)" by  [Andrei Neagoie (Udemy)](https://www.udemy.com/user/andrei-neagoie/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_437497337004_._kw__._de_c_._dm__._pl__._ti_dsa-841699838623_._li_1005489_._pd__._&matchtype=b&gclid=Cj0KCQjw6575BRCQARIsAMp-ksN6ehi0pJzjHVX03U_kxNlzHIJ8keS0s5A0tZbkWYwmmAO7kXMh_g8aAtljEALw_wcB).
 - 👯 I’m looking to collaborate on ...
@@ -10,7 +23,6 @@ Here are some ideas to get you started:
 - ✏️ Sometimes, I writte on: [Medium](https://medium.com/@jlaguilargomez)
 
 ## Connect with me:
-
 
 <img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn"
 	width="20" height="20" /> [Linkedin](https://www.linkedin.com/in/jlaguilargomez/)
@@ -44,9 +56,8 @@ Here are some ideas to get you started:
 	width="35" height="35" />
 	
 
-	
-
-
 # Hobbies:
 
-![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+I love sports: bike, running and strength workout.
+
+If I have the opportunity, I love go hiking at mountain with friends, ¿weather go wrong?, is a good moment to stay home playing some board games.
