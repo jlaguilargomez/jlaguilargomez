@@ -54,15 +54,55 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 ## Portfolio:
 You could check some projects from my portfolio:
 
+
+#### Free to vibe Web
+Angular 9 + RxJS + Firebase
+<img src="https://i.ibb.co/3SCTQff/Screenshot-4.png" alt="freetovibe-web"
+	width="300" height="auto" /></br>
+[Deploy](https://freetovibe.com/principal)
+
+
+#### Color game project
+Project from "The Web Developer Bootcamp"
+Vanilla JS
+<img src="https://i.ibb.co/gSmrJyG/Screenshot-5.png" alt="color-game"
+	width="300" height="auto" /></br>
+[GitHubPages](http://jlaguilardev.me/twdbc_color-game-project/) --- [Repo](https://github.com/jlaguilargomez/twdbc_color-game-project)
+
+
+#### Natours project
+Project from "Advance CSS and Sass Course"
+Vanilla JS
+<img src="https://i.ibb.co/wLGDsVk/Screenshot-6.png" alt="natours-project"
+	width="300" height="auto" /></br>
+[GitHubPages](http://jlaguilardev.me/CSS-course_natours-project/) --- [Repo](https://github.com/jlaguilargomez/CSS-course_natours-project)
+
+
 #### Quote generator
+Vanilla JS
 <img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator"
 	width="300" height="auto" /></br>
 [GitHubPages](https://github.com/jlaguilargomez/vanilla_js20_quote-generator) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_quote-generator)
-	
+
+
 ### Infinite scroll
+Vanilla JS
 <img src="https://i.ibb.co/ssLpg1N/Screenshot-3.png" alt="quote-generator"
 	width="auto" height="300" /></br>
 [GitHubPages](http://jlaguilardev.me/vanilla_js20_infinity-scroll/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_infinity-scroll)
+
+
+#### Personal portfolio webpage (freecodecamp)
+Project from "Responsive Web Design Certification (300 hours)" - FreeCodeCamp
+Vanilla JS
+<img src="https://i.ibb.co/fQxRNMd/Screenshot-7.png" alt="color-game"
+	width="300" height="auto" /></br>
+[GitHubPages](http://jlaguilardev.me/freeCodeCamp_personal-portfolio-webpage/) --- [Repo](https://github.com/jlaguilargomez/freeCodeCamp_personal-portfolio-webpage)
+
+
+#### Poke Angular (with my workteam)
+Angular 9
+[Repo](https://github.com/jlaguilargomez/poke-angular-deploy)
 
 
 # Hobbies:
