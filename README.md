@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Jose Luis
 
-I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Universidad Politécnica de Madrid" and later, I was working as a construction manager in some projects for about 3 years.
+I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Universidad Politécnica de Madrid" and later, I worked as a construction manager in some projects for about 3 years.
 
-#### 💪🏻 Why I made the decision to change my career?
-Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love tech. 
-So, thanks to my friends mainly, I discovered the world of code. 
+#### 💪🏻 Why I made the decision of changing my career?
+Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love "tech". 
+So, thanks to my friends, mainly, I discovered the world of code. 
 Suddenly, an infinite world of new knowledge appeared in front of me.
 
 #### 🤘🏻 How I became Junior Front end?
 First of all, I started learning some basics at **"FreecodeCamp"** and  **"Codecademy"**. Luckily, I had the opportunity to take part in a course of "Front end development" made by "Telefonica Foundation", so that I could reinforce the base knowledge that I had and add some new skills to my "bag".
 
 #### ☝🏻 What I'm looking for now?
-Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learn new skills, and improving my knowledge as a developer...
+Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learning new skills, and improving my knowledge as a developer...
 
 
 ### Nowadays...
-- 🌱 I'm currently learning some advance concepts of web development  such as "Performance",  "Secirity", "React+Redux", "AWS" ...   with the course **"The Complete Junior to Senior Web Developer Roadmap (2020)"** by  [Andrei Neagoie (Udemy)](https://www.udemy.com/user/andrei-neagoie/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_437497337004_._kw__._de_c_._dm__._pl__._ti_dsa-841699838623_._li_1005489_._pd__._&matchtype=b&gclid=Cj0KCQjw6575BRCQARIsAMp-ksN6ehi0pJzjHVX03U_kxNlzHIJ8keS0s5A0tZbkWYwmmAO7kXMh_g8aAtljEALw_wcB).
+- 🌱 I'm currently learning some advance concepts of web development  such as "Performance",  "Security", "React+Redux", "AWS" ...   with the course **"The Complete Junior to Senior Web Developer Roadmap (2020)"** by  [Andrei Neagoie (Udemy)](https://www.udemy.com/user/andrei-neagoie/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_437497337004_._kw__._de_c_._dm__._pl__._ti_dsa-841699838623_._li_1005489_._pd__._&matchtype=b&gclid=Cj0KCQjw6575BRCQARIsAMp-ksN6ehi0pJzjHVX03U_kxNlzHIJ8keS0s5A0tZbkWYwmmAO7kXMh_g8aAtljEALw_wcB).
 
 - ✏️ Sometimes, **I writte on**: [Medium](https://medium.com/@jlaguilargomez)
 
