@@ -71,12 +71,13 @@ Vanilla JS
 [GitHubPages](http://jlaguilardev.me/twdbc_color-game-project/) --- [Repo](https://github.com/jlaguilargomez/twdbc_color-game-project)
 
 
-#### ☘️ Natours project
-Project from "Advance CSS and Sass Course"
+#### ☘️ Joke Teller
 Vanilla JS
-</br><img src="https://i.ibb.co/wLGDsVk/Screenshot-6.png" alt="natours-project"
+*With notes*
+</br><img src="https://i.ibb.co/RTF7Q2C/Screenshot-1.png" alt="joke-teller"
 	width="300" height="auto" /></br>
-[GitHubPages](http://jlaguilardev.me/CSS-course_natours-project/) --- [Repo](https://github.com/jlaguilargomez/CSS-course_natours-project)
+[GitHubPages](http://jlaguilardev.me/vanilla_js20_joke-teller/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_joke-teller)
+
 
 
 #### 📜 Quote generator
