@@ -73,7 +73,7 @@ Vanilla JS
 
 #### ☘️ Joke Teller
 Vanilla JS
-*With notes*
+***- With notes -***
 </br><img src="https://i.ibb.co/RTF7Q2C/Screenshot-1.png" alt="joke-teller"
 	width="300" height="auto" /></br>
 [GitHubPages](http://jlaguilardev.me/vanilla_js20_joke-teller/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_joke-teller)
