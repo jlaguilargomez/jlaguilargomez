@@ -13,12 +13,11 @@ First of all, I started learning some basics at **"FreecodeCamp"** and  **"Codec
 ### ☝🏻 What I'm looking for now?
 Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learning new skills, and improving my knowledge as a developer...
 
----
+
 ## Hey! 🙋🏽‍♂️
 
 *Take a look at the library where I want to store my learning notes ...* [My learning library](https://github.com/jlaguilargomez/my_learning_library)
 
----
 
 ## Nowadays...
 - 🎓 I'm currently learning about ... **JAM Stack** () 
