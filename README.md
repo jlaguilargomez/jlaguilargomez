@@ -1,20 +1,26 @@
-## Hi there 👋 I'm Jose Luis
+# Hi there 👋 I'm Jose Luis
 
 I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Universidad Politécnica de Madrid" and later, I worked as a construction manager in some projects for about 3 years.
 
-#### 💪🏻 Why I made the decision of changing my career?
+### 💪🏻 Why I made the decision of changing my career?
 Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love "tech". 
 So, thanks to my friends, mainly, I discovered the world of code. 
 Suddenly, an infinite world of new knowledge appeared in front of me.
 
-#### 🤘🏻 How I became Junior Front end?
+### 🤘🏻 How I became Junior Front end?
 First of all, I started learning some basics at **"FreecodeCamp"** and  **"Codecademy"**. Luckily, I had the opportunity to take part in a course of "Front end development" made by "Telefonica Foundation", so that I could reinforce the base knowledge that I had and add some new skills to my "bag".
 
-#### ☝🏻 What I'm looking for now?
+### ☝🏻 What I'm looking for now?
 Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learning new skills, and improving my knowledge as a developer...
 
+---
+## Hey! 🙋🏽‍♂️
 
-### Nowadays...
+*Take a look at the library where I want to store my learning notes ...* [My learning library](https://github.com/jlaguilargomez/my_learning_library)
+
+---
+
+## Nowadays...
 - 🎓 I'm currently learning about ... **JAM Stack** () 
 - 📚 The book that I'm reading now ... **First Year in Code** [Link](https://leanpub.com/firstyearincode)
 
@@ -108,7 +114,7 @@ Angular 9
 [Repo](https://github.com/jlaguilargomez/poke-angular-deploy)
 
 
-# Hobbies:
+## Hobbies:
 
 I love sports: bike, running and strength workout.
 🏕🚵‍♂️🎭🏋️‍♂️👫🏻
