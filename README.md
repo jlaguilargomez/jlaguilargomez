@@ -15,7 +15,8 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 
 
 ### Nowadays...
-- 🌱 I'm currently learning some advance concepts of web development  such as "Performance",  "Security", "React+Redux", "AWS" ...   with the course **"The Complete Junior to Senior Web Developer Roadmap (2020)"** by  [Andrei Neagoie (Udemy)](https://www.udemy.com/user/andrei-neagoie/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_437497337004_._kw__._de_c_._dm__._pl__._ti_dsa-841699838623_._li_1005489_._pd__._&matchtype=b&gclid=Cj0KCQjw6575BRCQARIsAMp-ksN6ehi0pJzjHVX03U_kxNlzHIJ8keS0s5A0tZbkWYwmmAO7kXMh_g8aAtljEALw_wcB).
+- 🎓 I'm currently learning about ... **JAM Stack** () 
+- 📚 The book that I'm reading now ... **First Year in Code** [Link](https://leanpub.com/firstyearincode)
 
 - ✏️ Sometimes, **I writte on**: [Medium](https://medium.com/@jlaguilargomez)
 
