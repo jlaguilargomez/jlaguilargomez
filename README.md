@@ -14,7 +14,7 @@ First of all, I started learning some basics at **"FreecodeCamp"** and  **"Codec
 Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learning new skills, and improving my knowledge as a developer...
 
 
-## Hey! 🙋🏽‍♂️
+## -> Hey! 🙋🏽‍♂️
 
 *Take a look at the library where I want to store my learning notes ...* [My learning library](https://github.com/jlaguilargomez/my_learning_library)
 
