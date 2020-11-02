@@ -20,7 +20,7 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 
 
 ## Nowadays...
-- 🎓 I'm currently learning about ... **JAM Stack** () 
+- 🎓 I'm currently learning about ... **JAM Stack** 
 - 📚 The book that I'm reading now ... **First Year in Code** [Link](https://leanpub.com/firstyearincode)
 
 - ✏️ Sometimes, **I writte on**: [Medium](https://medium.com/@jlaguilargomez)
