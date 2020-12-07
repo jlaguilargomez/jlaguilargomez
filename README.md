@@ -101,9 +101,9 @@ Vanilla JS
 	width="auto" height="300" /></br>
 [GitHubPages](http://jlaguilardev.me/vanilla_js20_infinity-scroll/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_infinity-scroll)
 
-### 🖇 Light and dark mode
+### 🌙 Light and dark mode
 Vanilla JS
-</br><img src="https://pasteboard.co/cc861afe-6d0e-401b-882f-3c74a32ec51d" alt="light-dark-mode"
+</br><img src="https://i.postimg.cc/htTJ5QfX/Screenshot-1.png" alt="light-dark-mode"
 	width="auto" height="300" /></br>
 [Netlify deploy](https://sad-kare-aa9564.netlify.app/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_light-dark)
 
