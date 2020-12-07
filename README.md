@@ -104,7 +104,7 @@ Vanilla JS
 ### 🌙 Light and dark mode
 Vanilla JS
 </br><img src="https://i.postimg.cc/htTJ5QfX/Screenshot-1.png" alt="light-dark-mode"
-	width="auto" height="300" /></br>
+	width="300" height="auto" /></br>
 [Netlify deploy](https://sad-kare-aa9564.netlify.app/) --- [Repo](https://github.com/jlaguilargomez/vanilla_js20_light-dark)
 
 
