@@ -20,10 +20,8 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 
 
 ## Nowadays...
-- 🎓 I'm currently learning about ... **The Complete Junior to Senior Web Developer Roadmap (2021)** (https://github.com/jlaguilargomez/robofriends-app)
-	- Notes: https://github.com/jlaguilargomez/my_learning_library/blob/master/courses/complete-junior-to-senior-roadmap.md
-	- Robofriends-App: https://github.com/jlaguilargomez/robofriends-app
-- 📚 The book that I'm reading now ... **First Year in Code** [Link](https://leanpub.com/firstyearincode)
+- 🎓 I'm currently learning about ... **Complete React Developer in 2021 (w/ Redux, Hookx, GraphQL)** (https://github.com/jlaguilargomez/react_ecommerce-project)	
+- 📚 The book that I'm reading now ... **You don't know JS Yet (second edition)** [Link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/foreword.md)
 
 - ✏️ Sometimes, **I writte on**: [Medium](https://medium.com/@jlaguilargomez)
 
