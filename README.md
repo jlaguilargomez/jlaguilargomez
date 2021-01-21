@@ -16,7 +16,7 @@ Obviously, I want to earn money doing what I love. But, furthermore, I want to g
 
 ## -> Hey! 🙋🏽‍♂️
 
-*Take a look at the library where I want to store my learning notes ...* [My learning library](https://github.com/jlaguilargomez/my_learning_library)
+***Take a look at the library where I store my learning notes ...*** [My learning library](https://github.com/jlaguilargomez/my_learning_library)
 
 
 ## Nowadays...
