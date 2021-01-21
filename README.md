@@ -11,7 +11,7 @@ Suddenly, an infinite world of new knowledge appeared in front of me.
 First of all, I started learning some basics at **"FreecodeCamp"** and  **"Codecademy"**. Luckily, I had the opportunity to take part in a course of "Front end development" made by "Telefonica Foundation", so that I could reinforce the base knowledge that I had and add some new skills to my "bag".
 
 ### ☝🏻 What I'm looking for now?
-Obviously, I want to earn money doing what I love. But, furthermore, I want to grow every day: taking challenges, learning new skills, and improving my knowledge as a developer...
+I want to enjoy in my personal and profesional career doing what I love. But, furthermore, I want to grow every day: taking challenges, learning new skills, and improving my knowledge as a developer...
 
 
 ## -> Hey! 🙋🏽‍♂️
