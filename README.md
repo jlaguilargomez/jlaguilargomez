@@ -62,10 +62,10 @@ I want to enjoy in my personal and profesional career doing what I love. But, fu
 You could check some projects from my portfolio:
 
 ### 🤖 Robofriends APP
-React + Redux * PWA
+React + Redux + PWA
 </br><img src="https://i.ibb.co/nBgWPSX/Screenshot-1.png" alt="robofriends"
 	width="300" height="auto" /></br>
-[GitHubPages](https://jlaguilargomez.github.io/twdbc_color-game-project/) --- [Repo](https://github.com/jlaguilargomez/robofriends-app)
+[GitHubPages](https://github.com/jlaguilargomez/robofriends-app) --- [Repo](https://github.com/jlaguilargomez/robofriends-app)
 
 
 
