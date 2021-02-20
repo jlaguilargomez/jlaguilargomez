@@ -20,8 +20,8 @@ I want to enjoy in my personal and profesional career doing what I love. But, fu
 
 
 ## Nowadays...
-- 🎓 I'm currently learning about ... **Complete React Developer in 2021 (w/ Redux, Hookx, GraphQL)** (https://github.com/jlaguilargomez/react_ecommerce-project)	
-- 📚 The book that I'm reading now ... **You don't know JS Yet (second edition)** [Link](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/foreword.md)
+- 🎓 I'm currently learning ... **React, NodeJS, Express & MongoDB - The MERN Fullstack guide** [Course](https://pro.academind.com/p/react-nodejs-express-mongodb-the-mern-fullstack-guide)	
+- 📚 The book that I'm reading now ... **The pragmatic programmer** 
 
 - ✏️ Sometimes, **I writte on**: [Medium](https://medium.com/@jlaguilargomez)
 
@@ -68,6 +68,12 @@ React + Redux + PWA
 [GitHubPages](https://github.com/jlaguilargomez/robofriends-app) --- [Repo](https://github.com/jlaguilargomez/robofriends-app)
 
 
+
+#### 🛺 Free to vibe Web
+Angular 9 + RxJS + Firebase
+</br><img src="https://i.ibb.co/3SCTQff/Screenshot-4.png" alt="freetovibe-web"
+	width="300" height="auto" /></br>
+[Deploy](https://freetovibe.com/principal)
 
 #### 🛺 Free to vibe Web
 Angular 9 + RxJS + Firebase
