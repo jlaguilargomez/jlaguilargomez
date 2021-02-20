@@ -72,7 +72,7 @@ React + Redux + PWA
 Ionic + RxJS + Firebase
 </br><img src="https://i.ibb.co/s1shfr4/Screenshot-1.png" alt="blood-bowl-app"
 	width="auto" height="300" /></br>
-[Deploy](https://blood-bowl-app.firebaseapp.com/home)
+[Deploy](https://blood-bowl-app.firebaseapp.com/home) (mobile view!)
 
 
 ### 🛺 Free to vibe Web
