@@ -71,8 +71,8 @@ React + Redux + PWA
 ### 🏉 Blood Bowl APP
 Ionic + RxJS + Firebase
 </br><img src="https://i.ibb.co/s1shfr4/Screenshot-1.png" alt="blood-bowl-app"
-	width="auto" height="300" /></br>
-[Deploy](https://blood-bowl-app.firebaseapp.com/home) (mobile view!)
+	width="auto" height="300" /></br>	
+[Firebase deploy (mobile view!)](https://blood-bowl-app.firebaseapp.com/home) --- [Repo](https://github.com/jlaguilargomez/ionic_blood-bowl-app) 
 
 
 ### 🛺 Free to vibe Web
