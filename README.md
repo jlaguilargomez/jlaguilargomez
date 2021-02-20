@@ -68,20 +68,21 @@ React + Redux + PWA
 [GitHubPages](https://github.com/jlaguilargomez/robofriends-app) --- [Repo](https://github.com/jlaguilargomez/robofriends-app)
 
 
-#### 🏉 Blood Bowl APP
+### 🏉 Blood Bowl APP
 Ionic + RxJS + Firebase
 </br><img src="https://i.ibb.co/s1shfr4/Screenshot-1.png" alt="blood-bowl-app"
 	width="auto" height="300" /></br>
 [Deploy](https://blood-bowl-app.firebaseapp.com/home)
 
-#### 🛺 Free to vibe Web
+
+### 🛺 Free to vibe Web
 Angular 9 + RxJS + Firebase
 </br><img src="https://i.ibb.co/3SCTQff/Screenshot-4.png" alt="freetovibe-web"
 	width="300" height="auto" /></br>
 [Deploy](https://freetovibe.com/principal)
 
 
-#### 🎨 Color game project
+### 🎨 Color game project
 Project from "The Web Developer Bootcamp"
 Vanilla JS
 </br><img src="https://i.ibb.co/gSmrJyG/Screenshot-5.png" alt="color-game"
@@ -89,7 +90,7 @@ Vanilla JS
 [GitHubPages](https://jlaguilargomez.github.io/twdbc_color-game-project/) --- [Repo](https://github.com/jlaguilargomez/twdbc_color-game-project)
 
 
-#### ☘️ Joke Teller
+### ☘️ Joke Teller
 Vanilla JS
 ***- With notes -***
 </br><img src="https://i.ibb.co/RTF7Q2C/Screenshot-1.png" alt="joke-teller"
@@ -98,7 +99,7 @@ Vanilla JS
 
 
 
-#### 📜 Quote generator
+### 📜 Quote generator
 Vanilla JS
 </br><img src="https://i.ibb.co/zF2CTHL/Screenshot-2.png" alt="quote-generator"
 	width="300" height="auto" /></br>
@@ -119,7 +120,7 @@ Vanilla JS
 
 
 
-#### 🧸 Poke Angular (with my workteam)
+### 🧸 Poke Angular (with my workteam)
 Angular 9
 [Repo](https://github.com/jlaguilargomez/poke-angular-deploy)
 
