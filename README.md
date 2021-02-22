@@ -3,7 +3,7 @@
 I became Front End developer 👨🏻‍💻 after some years of a Building Engineer 👷🏻‍♂️ career. 
 Throughout a year of self-learning, I started to "lay the foundations" in JavaScript (I really enjoy it), CSS and HTML.
 The walls of my knowledge have been built with Angular, Rxjs, Sass, TypeScript at the job.
-Nowadays I'm diving into React and Node in my spare time also reinforcing other fundamental concepts such as "performance", "security"  and "testing".
+Nowadays I'm diving into React and Node in my spare time also reinforcing fundamental concepts such as "performance", "security"  and "testing".
 I love to learn!
 
 ### 💪🏻 Why I made the decision of changing my career?
