@@ -1,6 +1,10 @@
 # Hi there 👋 I'm Jose Luis
 
-I became **Front End developer** 👨🏻‍💻 after some years of **Building Engineer** 👷🏻‍♂️ career: I took the degree and a master in "Heritage Conservation" at "Universidad Politécnica de Madrid" and later, I worked as a construction manager in some projects for about 3 years.
+I became Front End developer 👨🏻‍💻 after some years of a Building Engineer 👷🏻‍♂️ career. 
+Throughout a year of self-learning, I started to "lay the foundations" in JavaScript (I really enjoy it), CSS and HTML.
+The walls of my knowledge have been built with Angular, Rxjs, Sass, TypeScript at the job.
+Nowadays I'm diving into React and Node in my spare time also reinforcing other fundamental concepts such as "performance", "security"  and "testing".
+I love to learn!
 
 ### 💪🏻 Why I made the decision of changing my career?
 Because I am that kind of strange person who **enjoys studying and learning something new day by day**. And I love "tech". 
