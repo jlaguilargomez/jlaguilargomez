@@ -65,11 +65,17 @@ I want to enjoy in my personal and profesional career doing what I love. But, fu
 ## Portfolio:
 You could check some projects from my portfolio:
 
+### 🗺️ Share places (working on it)
+React
+</br><img src="https://i.ibb.co/M5VFPpD/Screenshot-1.png" alt="share-places"
+	width="300" height="auto" /></br>
+[GitHubPages](https://jlaguilargomez.github.io/u1/places) --- [Repo](https://github.com/jlaguilargomez/react_share-places)
+
 ### 🤖 Robofriends APP
 React + Redux + PWA
 </br><img src="https://i.ibb.co/nBgWPSX/Screenshot-1.png" alt="robofriends"
 	width="300" height="auto" /></br>
-[GitHubPages](https://github.com/jlaguilargomez/robofriends-app) --- [Repo](https://github.com/jlaguilargomez/robofriends-app)
+[GitHubPages](https://jlaguilargomez.github.io/robofriends-app/) --- [Repo](https://github.com/jlaguilargomez/robofriends-app)
 
 
 ### 🏉 Blood Bowl APP
