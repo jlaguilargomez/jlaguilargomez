@@ -24,7 +24,7 @@ I want to enjoy in my personal and profesional career doing what I love. But, fu
 
 
 ## Nowadays...
-- 🎓 I'm currently learning ... **React, NodeJS, Express & MongoDB - The MERN Fullstack guide** [Course](https://pro.academind.com/p/react-nodejs-express-mongodb-the-mern-fullstack-guide)	
+- 🎓 I'm currently learning ... **Build a massive E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase** [Repo](https://github.com/jlaguilargomez/react_ecommerce-project)	
 - 📚 The book that I'm reading now ... **The pragmatic programmer** 
 
 - ✏️ Sometimes, **I writte on**: [Medium](https://medium.com/@jlaguilargomez)
